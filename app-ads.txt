@@ -1,0 +1,53 @@
+OWNERDOMAIN=indexvideo.online
+
+# Google AdMob
+google.com, pub-3189984091768357, DIRECT, f08c47fec0942fa0
+
+# Liftoff Monetize (Vungle)
+vungle.com, 6abcf855020a978505cf3d1d, DIRECT, c107d686becd2d77
+
+# Adagio
+adagio.io, 1881, RESELLER
+adagio.io, 1881-OB, RESELLER
+
+# Adagio - Equativ
+smartadserver.com, 3554, RESELLER
+sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
+
+# Adagio - Onetag
+onetag.com, 6b859b96c564fbe, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+appnexus.com, 13099, RESELLER
+
+# Adagio - OpenX
+openx.com, 558899373, RESELLER, 6a698e2ec38604c6
+
+# Adagio - Freewheel
+freewheel.tv, 536359-r-524565, RESELLER
+freewheel.tv, 536359-r-523319, RESELLER
+
+# Adagio - Adform
+adform.com, 3354, RESELLER, 9f5210a2f0999e32
+
+# Adagio - Magnite
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+
+# Adagio - Triplelift
+triplelift.com, 13482, RESELLER, 6c33edb13117fd86
+
+# Adagio - Improve Digital
+improvedigital.com, 1790, RESELLER
+
+# Adagio - Pubmatic
+pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
+
+# Adagio - Sovrn
+lijit.com, 367236, RESELLER, fafdf38b16bf6b2b
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+
+# Adagio - Nexxen
+video.unrulymedia.com, 5672421953199218469, RESELLER
